@@ -1,0 +1,7 @@
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\16-May-2019\16-May-2019\bin\Debug\16-May-2019.exe.config
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\16-May-2019\16-May-2019\bin\Debug\16-May-2019.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\16-May-2019\16-May-2019\bin\Debug\16-May-2019.pdb
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\16-May-2019\16-May-2019\obj\Debug\16-May-2019.csprojAssemblyReference.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\16-May-2019\16-May-2019\obj\Debug\16-May-2019.csproj.CoreCompileInputs.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\16-May-2019\16-May-2019\obj\Debug\16-May-2019.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\16-May-2019\16-May-2019\obj\Debug\16-May-2019.pdb
